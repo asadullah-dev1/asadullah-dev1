@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Asadullah
 
-<!--
-**asadullah-dev1/asadullah-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A BS Software Engineering student passionate about learning programming and building projects.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning:
+- C++
+- Git & GitHub basics
+- Programming fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects:
+- Basic C++ programs  
+- Practice assignments  
+
+## 🎯 Goals:
+- Become a skilled Software Engineer  
+- Build real-world projects  
+- Improve problem-solving skills  
+
+## 📫 Contact:
+- Email: asadullahlahorei@gmail.com 
+- LinkedIn:[ LinkedIn profile  ](https://www.linkedin.com/in/asadullahdev/) 
